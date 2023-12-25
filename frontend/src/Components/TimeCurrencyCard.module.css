@@ -1,0 +1,20 @@
+.cardContainer {
+    background-color: rgba(0,0,0,0.3);
+    padding: 12px;
+    margin: 4px;
+}
+
+.priceContainerUp {
+    color: green;
+}
+
+.priceContainerDown {
+    color: red;
+}
+
+.priceContainerEqual {
+    color: white;
+}
+
+.timeContainer {
+}
